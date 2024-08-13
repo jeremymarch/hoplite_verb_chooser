@@ -1,0 +1,8 @@
+[package]
+name = "hoplite_verb_chooser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hoplite_verbs_rs = { path = "../hoplite_verbs_rs" }
+rand = "0.8.5"
