@@ -35,8 +35,8 @@ dependencies = [
 
 [[package]]
 name = "hoplite_verbs_rs"
-version = "0.4.9"
-source = "git+https://github.com/jeremymarch/hoplite_verbs_rs#45435ac27fd96226b4ae3c2bdb206bd7a394e6c5"
+version = "0.5.0"
+source = "git+https://github.com/jeremymarch/hoplite_verbs_rs#0400380934de83a2c29225f82779b8825d801a82"
 dependencies = [
  "polytonic-greek",
 ]

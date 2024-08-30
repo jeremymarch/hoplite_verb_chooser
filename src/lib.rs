@@ -441,7 +441,6 @@ mod tests {
                                           //test round trip to param hash to form again
         assert_eq!(a, b);
     }
-
     /*
         #[test]
         fn test_oida() {
@@ -541,7 +540,6 @@ mod tests {
             );
         }
     */
-
     #[test]
     fn test_random2() {
         let luw = "λω, λσω, ἔλῡσα, λέλυκα, λέλυμαι, ἐλύθην";
